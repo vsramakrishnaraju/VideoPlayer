@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B98D0B56-7D56-4EB3-AC5C-21FC9E584A0B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BC83FC1-B51F-4CF4-92BB-AE7C26F696D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "video_player/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "playVideo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BC83FC1-B51F-4CF4-92BB-AE7C26F696D5 - cc06ee396487cf36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venkatak/Documents/Apps/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "6BC83FC1-B51F-4CF4-92BB-AE7C26F696D5 - cc06ee396487cf36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venkatak/Documents/Apps/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
